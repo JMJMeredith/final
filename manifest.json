@@ -5,14 +5,14 @@
     "version": "1.0.0.0",
     "icons": {
         "16": "/images/cat.png",
-        "48": " /images/reddit.png",
-        "128": " /images/robot.png"
+        "48": " /images/cat.png",
+        "128": " /images/cat.png"
     },
     "page_action": {
         "default_icon":{
         "16": "/images/cat.png",
-        "48": " /images/reddit.png",
-        "128": " /images/robot.png"
+        "48": " /images/cat.png",
+        "128": " /images/cat.png"
         }
     }
 }
