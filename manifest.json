@@ -4,13 +4,13 @@
     "description" : " test extension",
     "version": "1.0.0.0",
     "icons": {
-        "16": "/workspaces/final/images/cat.png",
+        "16": "/workspaces/final/images/sticker.png",
         "48": " /workspaces/final/images/sticker.png",
         "128": " /workspaces/final/images/sticker.png"
     },
     "page_action": {
         "default_icon":{
-        "16": "/workspaces/final/images/cat.png",
+        "16": "/workspaces/final/images/catsticker.png",
         "48": " /workspaces/final/images/sticker.png",
         "128": " /workspaces/final/images/sticker.png"
         }
