@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "Name": " MyProject ",
+    "name": " Project1 ",
     "description" : " test extension",
     "version": "1.0.0.0",
     "icons": {
